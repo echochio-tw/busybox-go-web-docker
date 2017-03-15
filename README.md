@@ -1,5 +1,8 @@
 # busybox-go-web-docker
 
+ git clone https://github.com/echochio-tw/busybox-go-web-docker.git
+
+ cd busybox-go-web-docker
 
  docker build -t busybox-go-web-docker .
  
